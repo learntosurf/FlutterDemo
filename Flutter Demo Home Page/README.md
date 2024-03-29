@@ -1,1 +1,9 @@
+## Flutter Demo Home Page 
 
+The default app that you see when you first create a Flutter Project in Android Studio.
+
+### 1. Initial screen 
+![initial](https://github.com/learntosurf/FlutterDemo/issues/new)
+
+### 2. Screen with reset button added 
+![added](https://github.com/learntosurf/FlutterDemo/assets/127649791/74d3d68c-5297-4359-9882-04747f1a7d3)
