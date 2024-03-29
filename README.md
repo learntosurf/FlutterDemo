@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=FlutterDemo&fontSize=50&animation=fadeIn&fontAlignY=35)
 
-> **flutter 개발 프로세스 토이 프로젝트**
+> **Flutter 개발 프로세스 토이 프로젝트**
 
 > **커밋 컨벤션, 브랜치, pull request 꼭 지키기 !**
 
