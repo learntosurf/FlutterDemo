@@ -9,8 +9,6 @@
 ### 멤버
 - 고중범 @kojungbeom
 - 김민정 @Mingguriguri
-- 박재윤 @JYP0824
-- 정수미 @learntosurf
 
 ### 사용
 1. 이 레포를 fork해와서 개인 저장소로 가져옴
